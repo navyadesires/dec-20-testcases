@@ -1,4 +1,4 @@
-package com.mouritech.jsonsample;
+package com.mouritech.jsonsample1;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

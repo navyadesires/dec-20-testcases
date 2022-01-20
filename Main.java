@@ -1,4 +1,4 @@
-package com.mouritech.jsonsample;
+package com.mouritech.jsonsample1;
 
 public class Main {
 
